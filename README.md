@@ -28,7 +28,7 @@ Experiments:
 - Multi-agent systems
 - Transformer architectures
 - AI research
-- AI Sagety
+- AI Safety
 
 <!--
 **mustaffad/mustaffad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
