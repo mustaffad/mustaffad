@@ -3,7 +3,7 @@
 Computer Science @Carleton University
 AI/ML/Data Science
 
-## 🖥️ Homelab
+## Homelab
 
 My AI workstation:
 
@@ -22,7 +22,7 @@ Experiments:
 - llama.cpp
 - KV-cache
 
-## 🧠 Interests
+## Interests
 
 - Reinforcement Learning
 - Multi-agent systems
