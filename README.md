@@ -1,7 +1,7 @@
 ## Mustafa Dursunoglu
 
-Computer Science @Carleton University
-AI/ML/Data Science
+Computer Science @Carleton University\\
+AI/ML/Data Science\\
 https://mustafad.com/
 
 ## Homelab
